@@ -2,5 +2,11 @@ h1, h2, h3, h4, h5, h6 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 body {
-    font-family:'Courier New', Courier, monospace
+    font-family:'Courier New', Courier, monospace;
+    background-color: #f8f9fa;
+}
+.btn-primary {
+    color: #fff;
+    background-color: #00ff229a !important;
+    border-color: #6d031e !important;
 }
