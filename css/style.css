@@ -8,7 +8,11 @@ body {
 .btn-primary {
     color: #fff;
     background-color: #00ff229a !important;
-    border-color: #6d031e !important;
+    border-color: #6d031e !important;   
+}
+
+.btn-primary:hover {
+    box-shadow: 5px 10px #888888;
 }
 /*footer {
     display: flex;
@@ -40,7 +44,4 @@ h2 {
 a:hover {
     background-color: yellow;
     cursor:pointer;
-    box-shadow: 5px 10px #888888
-    
-
 }
